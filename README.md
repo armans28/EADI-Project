@@ -20,7 +20,7 @@
   </p>
   
  [![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist)
- [![tensorflow](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/ichanno/EADI2)
+ [![tensorflow](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/ichanno/EADI/tree/simplified)
  
 </div>
 
@@ -108,7 +108,7 @@ Based on this problem, we are curious about how to quickly detect autistic child
 
 <!-- OUR PROJECTS REPOSITORY-->
 ## Our Project Repository
-- [EADI Android Apps](https://github.com/ichanno/EADI)
+- [EADI Android Apps](https://github.com/ichanno/EADI/tree/simplified)
 - [EADI Face Detection Algorithm](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist)
 - [EADI API](https://github.com/armans28/EADI-Project/tree/main/Cloud%20Computing)
 
