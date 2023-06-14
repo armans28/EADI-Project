@@ -108,7 +108,7 @@ Based on this problem, we are curious about how to quickly detect autistic child
 
 <!-- OUR PROJECTS REPOSITORY-->
 ## Our Project Repository
-- [EADI Android Apps](https://github.com/ichanno/EADI2)
+- [EADI Android Apps](https://github.com/ichanno/EADI)
 - [EADI Face Detection Algorithm](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist)
 - [EADI API](https://github.com/armans28/EADI-Project/tree/main/Cloud%20Computing)
 
