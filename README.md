@@ -8,17 +8,20 @@
   <a href="https://github.com/armans28/EADI-Project">
     <img src="Assets/Logo EADI-01.png" alt="Logo" width="200" height="200">
   </a>
-
-  <h3 align="center">EADI Project</h3>
+  
+![name](https://img.shields.io/badge/EADI-Project-blue)
+![team](https://img.shields.io/badge/Team-C23--PS165-blue)
+  
+  <h1 align="center">EADI Project</h1>
 
   <p align="center">
     Early Detection, Lifelong Impact!
     <br />
-    </strong></a>
-    <br />
-    <br />
-  
   </p>
+  
+ [![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist)
+ [![tensorflow](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/ichanno/EADI2)
+ 
 </div>
 
 
@@ -124,22 +127,25 @@ We build Rest API for application purposes. Such as looking for craft references
 <!-- FEATURES OF THIS PROJECTS-->
 
 ## Features of This Projects
-
-
-
+1. Funcionality
+  - asdasd
+  - asdasd
+2. Non Funcionality
+  - asdasd
+  - asdasd
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+<!-- LOGO BANGKIT AND EADI-->
+<div align="center">
+  <a href="https://github.com/armans28/EADI-Project">
+    <img src="Assets/BANGKIT LOGO.png" alt="Logo" width="299" height="168">
+  </a>
+  <a href="https://github.com/armans28/EADI-Project">
+    <img src="Assets/Logo EADI-01.png" alt="Logo" width="150" height="150">
+  </a>
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 
 
