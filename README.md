@@ -118,9 +118,9 @@ Based on this problem, we are curious about how to quickly detect autistic child
 ## Our Products
 
 ### Prerequisites
-- Android 5.0 Lolipop
+- Android 7.0 Nougat
 - Internet Connection
-- Location Services
+- Camera Permission
 
 ### API Documentation
 We build Rest API for application purposes. Such as looking for craft references, providing craft recommendations from detection results, managing craft data (Create, Read, Update, and Delete), and managing marketplace data (Create, Read, Update, and Delete)
