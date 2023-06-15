@@ -128,12 +128,16 @@ We build Rest API for application purposes. Such as looking for craft references
 <!-- FEATURES OF THIS PROJECTS-->
 
 ## Features of This Projects
-1. Funcionality
-  - asdasd
-  - asdasd
-2. Non Funcionality
-  - asdasd
-  - asdasd
+### Core Features
+  - Autism Face Detection
+  - CARS-2 Questionnaire 
+### Side Features
+  - Register
+  - Login
+  - Profile setting
+  - Setting Profile
+  - Viewing User Profile
+  - Detection History
   - 
 <!-- LICENSE -->
 ## License
