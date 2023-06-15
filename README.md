@@ -138,7 +138,7 @@ We build Rest API for application purposes. Such as looking for craft references
   - Setting Profile
   - Viewing User Profile
   - Detection History
-  - 
+  
 <!-- LICENSE -->
 ## License
 Distributed under the MIT Lisence. See 'LICENSE' for more Information.
