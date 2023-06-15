@@ -67,43 +67,43 @@ Based on this problem, we are curious about how to quickly detect autistic child
     <th>Name</th>
     <th>Student ID</th>
     <th>Path</th>
-    <th>Project Role</th>
+    <th>Linkedin Profile</th>
   </tr>
   <tr>
     <td>Daniel Rodearman Sihombing</td>
     <td>M038DSX3449</td>
     <td>Machine Learning</td>
-    <td>Machine Learning Engineer</td>
+    <td><a href="https://www.linkedin.com/in/danielrsihombing">Linkedin</a></td>
   </tr>
   <tr>
     <td>Imelda Fransisca S</td>
     <td>M151DSY3130</td>
     <td>Machine Learning</td>
-    <td>Machine Learning Engineer</td>
+    <td><a href="https://www.linkedin.com/in/imeldafransisca ">Linkedin</a></td>
   </tr>
   <tr>
     <td>I Putu Adhista Wahyutama</td>
     <td>M038DSX2481</td>
     <td>Machine Learning</td>
-    <td>Machine Learning Engineer</td>
+    <td><a href="https://www.linkedin.com/in/adhistawahyutama">Linkedin</a></td>
   </tr>
   <tr>
     <td>Ihsan Muhammad Akbar</td>
     <td>A013DSX1016</td>
     <td>Mobile Development</td>
-    <td>Mobile Developer</td>
+    <td><a href="https://www.linkedin.com/in/ihsanma/">Linkedin</a></td>
   </tr>
   <tr>
     <td>Jona Meivan Frendo Saragih</td>
     <td>C038DSX3142</td>
     <td>Cloud Computing</td>
-    <td>DevOps Engineer</td>
+    <td><a href="https://www.linkedin.com/in/jonameivan/">Linkedin</a></td>
   </tr>
   <tr>
     <td>Moch. Faza Pramudya Msw.</td>
     <td>C151DSX2247</td>
     <td>Cloud Computing</td>
-    <td>DevOps Engineer</td>
+    <td><a href="https://www.linkedin.com/in/m-faza-pramudya-aba7921ba">Linkedin</a></td>
   </tr>
 </table>
 
