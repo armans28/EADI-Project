@@ -141,7 +141,7 @@ We build Rest API for application purposes. Such as looking for craft references
   
 <!-- LICENSE -->
 ## License
-Distributed under the MIT Lisence. See 'LICENSE' for more Information.
+Distributed under the MIT Lisence. See [`LICENSE`](https://github.com/armans28/EADI-Project/blob/main/LICENSE) for more Information.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
