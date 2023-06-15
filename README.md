@@ -43,6 +43,7 @@
       </ul>
     </li>
     <li><a href="#features-of-this-projects">Features of This Projects</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -133,7 +134,10 @@ We build Rest API for application purposes. Such as looking for craft references
 2. Non Funcionality
   - asdasd
   - asdasd
-
+  - 
+<!-- LICENSE -->
+## License
+Distributed under the MIT Lisence. See 'LICENSE' for more Information.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
