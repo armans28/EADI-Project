@@ -100,7 +100,7 @@ Based on this problem, we are curious about how to quickly detect autistic child
     <td><a href="https://www.linkedin.com/in/jonameivan/">Linkedin</a></td>
   </tr>
   <tr>
-    <td>Moch. Faza Pramudya Msw.</td>
+    <td>Moch. Faza Pramudya</td>
     <td>C151DSX2247</td>
     <td>Cloud Computing</td>
     <td><a href="https://www.linkedin.com/in/m-faza-pramudya-aba7921ba">Linkedin</a></td>
