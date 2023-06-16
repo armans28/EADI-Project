@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-EADI is short for Early Autism Detection Invention which is an android application that can help parents detect their children who have not detected autism. We will also provide articles that can educate the public. Besides being able to speed up the detection of autism, this application also has the potential to help parents to provide better care for their children.
+EADI is short for Early Autism Detection Intervention which is an android application that can help parents detect their children who have not detected autism. We will also provide articles that can educate the public. Besides being able to speed up the detection of autism, this application also has the potential to help parents to provide better care for their children.
 
 ## How to run the code in your local computer
 1. Clone the repository / download the code into you local computer
