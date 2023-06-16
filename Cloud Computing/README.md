@@ -30,7 +30,10 @@ EADI is short for Early Autism Detection Invention which is an android applicati
 5. Open terminal and navigate directory to the folder containing index.js
 6. Start your server by using nodemon index.js command
 7. Open your Postman on your computer
-8. 
+8. Make a new request by clicking  new button in the top left corner
+9. You can choose HTTP verbs that will you use to send the request
+10. Enter the request URL and click send
+11. You can also give the params, authorization, body, etc in the bottom of the request URL box.
 
 ## Dataset
 For this project, we take dataset from kaggle containing 2926 photos of autism and non-autism childern. The dataset can be accessed at this [link](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist/Dataset).
