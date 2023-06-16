@@ -35,6 +35,9 @@ EADI is short for Early Autism Detection Invention which is an android applicati
 10. Enter the request URL and click send
 11. You can also give the params, authorization, body, etc in the bottom of the request URL box.
 
+## Link Deployment for API login and History
+You can try also try to give some request by trying into your browser by click this [link](https://eadi-de8fd.et.r.appspot.com/).
+
 ## Other project
 You can also looking up our other repository in this project by this [link](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist/Dataset).
 
