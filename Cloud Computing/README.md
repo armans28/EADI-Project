@@ -35,9 +35,6 @@ EADI is short for Early Autism Detection Invention which is an android applicati
 10. Enter the request URL and click send
 11. You can also give the params, authorization, body, etc in the bottom of the request URL box.
 
-## Dataset
-For this project, we take dataset from kaggle containing 2926 photos of autism and non-autism childern. The dataset can be accessed at this [link](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist/Dataset).
-
 ## Other project
 You can also looking up our other repository in this project by this [link](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist/Dataset).
 
