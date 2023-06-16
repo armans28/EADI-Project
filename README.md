@@ -123,7 +123,7 @@ Based on this problem, we are curious about how to quickly detect autistic child
 - Camera Permission
 
 ### API Documentation
-We build Rest API for application purposes. Such as looking for craft references, providing craft recommendations from detection results, managing craft data (Create, Read, Update, and Delete), and managing marketplace data (Create, Read, Update, and Delete)
+APIs in Android applications have an important role in connecting applications with external data sources and extending application capabilities. There are two types of API that are commonly used in EADI applications, namely the CRUD API to manage data with basic CRUD operations, such as adding data, updating data, deleting data and retrieving data. In addition, there is an API for machine learning models that allows applications to take advantage of artificial intelligence and perform complex predictions or analyzes for children with autism. CRUD APIs make it easy to manage app data, while machine learning model APIs open up opportunities for developing intelligent and adaptive Android apps.
 
 <!-- FEATURES OF THIS PROJECTS-->
 
