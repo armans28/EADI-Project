@@ -39,7 +39,7 @@ EADI is short for Early Autism Detection Invention which is an android applicati
 You can try also try to give some request by trying into your browser by click this [link](https://eadi-de8fd.et.r.appspot.com/).
 
 ## Other project
-You can also looking up our other repository in this project by this [link](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist/Dataset).
+You can also looking up our other repository in this project by this [link](https://github.com/armans28/EADI-Project).
 
 ## Acknowledgments
 <!-- LOGO BANGKIT AND EADI-->
