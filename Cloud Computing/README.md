@@ -23,11 +23,14 @@
 EADI is short for Early Autism Detection Invention which is an android application that can help parents detect their children who have not detected autism. We will also provide articles that can educate the public. Besides being able to speed up the detection of autism, this application also has the potential to help parents to provide better care for their children.
 
 ## Installation
-1. Clone the repository
-2. Upload dataset to google drive
-3. Open the notebook for the model at this [link](https://github.com/armans28/EADI-Project/blob/main/Machine%20Learning%20Checklist/Model%20ResNet50%20FIX/ResNet50_V4.ipynb) in Google Colab
-4. Follow the instructions on the notebook and run the notebook until it's finished
-5. The model will be converted to h5, JSON, and tflite format and ready to deploy for cloud computing team
+1. Clone the repository / download the code into you local computer
+2. Open your Visual Studio Code
+3. Click File and choose open folder
+4. Select the file that you download in step 1
+5. Open terminal and navigate directory to the folder containing index.js
+6. Start your server by using nodemon index.js command
+7. Open your Postman on your computer
+8. 
 
 ## Dataset
 For this project, we take dataset from kaggle containing 2926 photos of autism and non-autism childern. The dataset can be accessed at this [link](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist/Dataset).
