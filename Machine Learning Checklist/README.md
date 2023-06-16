@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-EADI is short for Early Autism Detection Invention which is an android application that can help parents detect their children who have not detected autism. We will also provide articles that can educate the public. Besides being able to speed up the detection of autism, this application also has the potential to help parents to provide better care for their children.
+EADI is short for  Early Autism Detection Intervention which is an android application that can help parents detect their children who have not detected autism. We will also provide articles that can educate the public. Besides being able to speed up the detection of autism, this application also has the potential to help parents to provide better care for their children.
 
 ## Installation
 1. Clone the repository
@@ -31,7 +31,7 @@ EADI is short for Early Autism Detection Invention which is an android applicati
 5. The model will be converted to h5, JSON, and tflite format and ready to deploy for cloud computing team
 
 ## Dataset
-For this project, we take dataset from kaggle containing 2926 photos of autism and non-autism childern. The dataset can be accessed at this [link](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist/Dataset).
+For this project, we take dataset from kaggle containing 2926 photos of autistic and non-autistic childern. The dataset can be accessed at this [link](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist/Dataset).
 
 ## Other project
 You can also looking up our other repository in this project by this [link](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist/Dataset).
