@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist">
+  <a href="https://github.com/armans28/EADI-Project/tree/main/Cloud%20Computing">
     <img src="Logo EADI-01.png" alt="Logo" width="200" height="200">
   </a>
   
@@ -15,7 +15,6 @@
     <br />
   </p>
   
- [![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist)
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -39,10 +38,10 @@ You can also looking up our other repository in this project by this [link](http
 ## Acknowledgments
 <!-- LOGO BANGKIT AND EADI-->
 <div align="center">
-  <a href="https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist">
+  <a href="https://github.com/armans28/EADI-Project/tree/main/Cloud%20Computing">
     <img src="BANGKIT LOGO.png" alt="Logo" width="299" height="168">
   </a>
-  <a href="https://github.com/armans28/EADI-Project/tree/main/Machine%20Learning%20Checklist">
+  <a href="https://github.com/armans28/EADI-Project/tree/main/Cloud%20Computing">
     <img src="Logo EADI-01.png" alt="Logo" width="150" height="150">
   </a>
 
